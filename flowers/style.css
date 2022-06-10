@@ -1,0 +1,167 @@
+
+		* {
+			cursor: none
+		}
+
+		body,
+		html {
+			height: 100%;
+        
+		}
+
+		body {
+			overflow: hidden;
+			-webkit-transition: background .25s;
+			background-color: none !important;
+		}
+
+		iframe,
+		audio {
+			position: absolute;
+			left: -999em;
+			top: -999em
+		}
+
+		img {
+			/* display: none; */
+			position: absolute;
+			pointer-events: none;
+			width: 50px;
+			height: 50px ;
+		}
+
+		.sharing.is.caring {
+			position: fixed;
+			z-index: 9999999;
+			left: 50px;
+			bottom: 50px;
+			width: 400px;
+			cursor: default
+		}
+
+		.sharing.is.caring iframe,
+		.sharing.is.caring div {
+			position: static;
+			float: left
+		}
+
+		.eggs-float {
+			position: absolute;
+			right: 19%;
+			top: 60%;
+
+
+			color: black;
+			background-color: transparent;
+
+
+			padding: 10px 30px;
+		}
+
+		.eggs-float p {
+			font-family: brother-1816, sans-serif;
+			margin: 0px;
+			font-weight: 100;
+		}
+
+		.eggs-float h4 {
+			font-family: brother-1816, sans-serif;
+			font-weight: 700;
+		}
+
+		/* Common Components */
+		.logo {
+			position: absolute;
+			width: 10%;
+			top: 3%;
+			left: 3%;
+		}
+
+		.wtf-btn {
+			position: fixed;
+			right: 4%;
+			top: 2%;
+			border: 2px solid #000000;
+			border-radius: 50%;
+			padding: 10px 5px;
+			font-family: brother-1816, sans-serif;
+			font-weight: 900;
+			font-size: 13px;
+			color: #000000;
+			z-index: 10000000000;
+
+		}
+
+		.wtf-btn:hover {
+
+			cursor: pointer;
+		}
+
+		.more-btn {
+			position: fixed;
+			bottom: 2%;
+			right: 2%;
+			font-family: brother-1816, sans-serif;
+			font-weight: 900;
+			font-size: 13px;
+			color: #000000;
+
+			padding: 2px 15px;
+			border-radius: 25px;
+			border: 2px solid #000000;
+			cursor: pointer;
+			z-index: 10000000000;
+		}
+
+		/* Common Components */
+.flower-logo{
+    z-index: 100000000000;
+}
+/* Toni css */
+  
+    
+
+
+
+
+.eggs-float p{
+	font-family: kepler-std-extended-display, serif;
+	font-weight: 400 !important;
+	font-style: italic;
+	font-size: 1.2vw;
+	letter-spacing: 1px;
+  
+	color: rgb(0, 0, 0);
+	text-align: LEFT  ;
+	
+	padding-bottom: 2%;
+  
+  }
+  .eggs-float h4{
+	font-family: brother-1816, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: .5px;
+	text-align: LEFT;
+	font-size: 1.1vw;
+	margin: 0;
+  }
+  .eggs-float {
+	position: absolute;
+	right: 19%;
+	top: 60%;
+
+
+	color: black;
+	background-color: transparent;
+
+
+	padding: 10px 30px;
+}
+
+  
+  
+  
+  
+  
+  /*  */
