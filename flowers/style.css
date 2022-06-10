@@ -121,7 +121,9 @@
   
     
 
-
+.logo{
+    cursor: pointer;
+}
 
 
 .eggs-float p{

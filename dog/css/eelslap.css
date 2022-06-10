@@ -280,3 +280,8 @@ z-index: 100000000000;
 	
 	
 	/*  */
+
+
+	.logo{
+		cursor: pointer;
+	}

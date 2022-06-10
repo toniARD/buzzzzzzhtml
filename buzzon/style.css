@@ -78,3 +78,6 @@ overflow-x: hidden;
 	cursor: pointer;
 	z-index: 10000000000;
 }
+.logo{
+    cursor: pointer;
+}
